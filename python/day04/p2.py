@@ -1,8 +1,8 @@
 with open("input.txt", "r") as f:
     result = 0
     for line in f.read().split("\n"):
-        p1, p2 = list(
-            map(lambda y: map(int, y), map(lambda x: x.split("-"), line.split(",")))
+        p1, p2 = map(
+            lambda y: map(int, y), map(lambda x: x.split("-"), line.split(","))
         )
 
         # Add +1 to make it inclusive
