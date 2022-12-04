@@ -4,7 +4,6 @@ if __name__ == "__main__":
     result = 0
     with open("input.txt", "r") as f:
         inp = [line.strip() for line in f.readlines()]
-        groups = []
         for i in range(0, len(inp), 3):
             group_result = 0
             s1 = set(inp[i])
