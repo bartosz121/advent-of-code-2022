@@ -7,7 +7,7 @@
 | [03][day03] | [:heavy_check_mark:](python/day03) |  :x:   |
 | [04][day04] | [:heavy_check_mark:](python/day04) |  :x:   |
 | [05][day05] | [:heavy_check_mark:](python/day05) |  :x:   |
-| [06][day06] |                :x:                 |  :x:   |
+| [06][day06] | [:heavy_check_mark:](python/day06) |  :x:   |
 | [07][day07] |                :x:                 |  :x:   |
 | [08][day08] |                :x:                 |  :x:   |
 | [09][day09] |                :x:                 |  :x:   |
