@@ -3,7 +3,7 @@
 |     Day     |               Python               | Elixir | Rust |   Go   |
 | :---------: | :--------------------------------: | :----: | :--: | :----: |
 | [01][day01] | [:heavy_check_mark:](python/day01) |  :x:   | [:heavy_check_mark:](rust/day01)  | [:heavy_check_mark:](go/day01)  |
-| [02][day02] | [:heavy_check_mark:](python/day02) |  :x:   | [:heavy_check_mark:](rust/day02)  |  :x:   |
+| [02][day02] | [:heavy_check_mark:](python/day02) |  :x:   | [:heavy_check_mark:](rust/day02)  | [:heavy_check_mark:](go/day02)  |
 | [03][day03] | [:heavy_check_mark:](python/day03) |  :x:   | [:heavy_check_mark:](rust/day03)  |  :x:   |
 | [04][day04] | [:heavy_check_mark:](python/day04) |  :x:   | :x:  |  :x:   |
 | [05][day05] | [:heavy_check_mark:](python/day05) |  :x:   | :x:  |  :x:   |
